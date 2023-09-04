@@ -9,3 +9,6 @@ Make yourself invincible! Good when combined with Set Speed
 
 # Set Speed
 To set the speed, edit the "100", but don't overdo it, or your computer will crash!
+
+# Change score increase speed
+Change the 100 to whatever you want, then you can grind easily
